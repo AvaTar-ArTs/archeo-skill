@@ -88,6 +88,7 @@ The integration adapts useful methods instead of copying the entire `agent-skill
 - `references/agent-role-cards.md` — role boundaries for architecture, security, testing, orchestration, and creative review
 - `references/verification-protocol.md` — evidence and completion checks
 - `scripts/inventory_archive.py` — archive inventory helper
+- `docs/adjacent-systems-research.md` — research on similar creative systems, products, sources, and AvatarArts capability gaps
 
 ## Example use
 
@@ -133,6 +134,7 @@ The goal is not to reproduce any one project. The goal is to understand origins,
 
 - [AvatarArts Comic Creator Matrix](https://github.com/AvaTar-ArTs/AvatarArts-Comic-Creator-Matrix)
 - [AvatarArts agent-skills](https://github.com/AvaTar-ArTs/agent-skills)
+- [Origin Story adjacent systems research](https://github.com/AvaTar-ArTs/origin-story/blob/main/docs/adjacent-systems-research.md)
 - [Origin Story skill package](https://github.com/AvaTar-ArTs/origin-story)
 
 ## Status
