@@ -127,3 +127,8 @@ Do not create an auxiliary README or generic summary when the user requested the
 - Read `references/review-lenses.md` when selecting agent or skill lenses.
 - Read `references/dossier-template.md` when producing repeatable repository reports.
 - Use `scripts/inventory_archive.py` for deterministic archive inventory before interpretation.
+- Read `references/agent-skills-integration.md` to choose process, engineering, organization, and creative lenses from the source agent-skills repository.
+- Read `references/agent-role-cards.md` when orchestrating multiple analytical roles.
+- Read `references/creative-comic-lenses.md` for comic, manga, webtoon, visual, and taste-aware review.
+- Read `references/verification-protocol.md` before reporting completion or confidence.
+
