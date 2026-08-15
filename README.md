@@ -89,6 +89,7 @@ The integration adapts useful methods instead of copying the entire `agent-skill
 - `references/verification-protocol.md` — evidence and completion checks
 - `scripts/inventory_archive.py` — archive inventory helper
 - `docs/adjacent-systems-research.md` — research on similar creative systems, products, sources, and AvatarArts capability gaps
+- `docs/visual-story-writing-deep-dive.md` — deep analysis of visual story authoring, synchronized views, operators, studies, and AvatarArts adaptations
 
 ## Example use
 
@@ -135,6 +136,7 @@ The goal is not to reproduce any one project. The goal is to understand origins,
 - [AvatarArts Comic Creator Matrix](https://github.com/AvaTar-ArTs/AvatarArts-Comic-Creator-Matrix)
 - [AvatarArts agent-skills](https://github.com/AvaTar-ArTs/agent-skills)
 - [Origin Story adjacent systems research](https://github.com/AvaTar-ArTs/origin-story/blob/main/docs/adjacent-systems-research.md)
+- [Visual Story-Writing deep dive](https://github.com/AvaTar-ArTs/origin-story/blob/main/docs/visual-story-writing-deep-dive.md)
 - [Origin Story skill package](https://github.com/AvaTar-ArTs/origin-story)
 
 ## Status
