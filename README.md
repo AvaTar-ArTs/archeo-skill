@@ -48,7 +48,7 @@ The skill separates **observed facts**, **reasonable inferences**, and **recomme
 
 ## Expanded integration
 
-The expanded methods from Origin Story were integrated into [AvaTar-ArTs/archeo-skill](https://github.com/AvaTar-ArTs/archeo-skill).
+Origin Story is the renamed and continuing form of **Archeo Skill**. The expanded methods from the former archeo-skill package are now maintained here as part of Origin Story.
 
 That integration added:
 
@@ -133,7 +133,6 @@ The goal is not to reproduce any one project. The goal is to understand origins,
 
 - [AvatarArts Comic Creator Matrix](https://github.com/AvaTar-ArTs/AvatarArts-Comic-Creator-Matrix)
 - [AvatarArts agent-skills](https://github.com/AvaTar-ArTs/agent-skills)
-- [Archeo Skill](https://github.com/AvaTar-ArTs/archeo-skill)
 - [Origin Story skill package](https://github.com/AvaTar-ArTs/origin-story)
 
 ## Status
