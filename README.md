@@ -91,6 +91,7 @@ The integration adapts useful methods instead of copying the entire `agent-skill
 - `docs/adjacent-systems-research.md` — research on similar creative systems, products, sources, and AvatarArts capability gaps
 - `docs/visual-story-writing-deep-dive.md` — deep analysis of visual story authoring, synchronized views, operators, studies, and AvatarArts adaptations
 - `docs/owned-systems-research.md` — first-party analysis of choTaku, Chozen-land, and their relationship to AvatarArts Forge
+- `docs/expanded-creator-ecosystem-scan.md` — expanded scan across skills.sh, OpenClaw, MCP, commercial creator tools, traditional software, and publishing ecosystems
 
 ## Example use
 
@@ -141,6 +142,7 @@ The goal is not to reproduce any one project. The goal is to understand origins,
 - [Origin Story adjacent systems research](https://github.com/AvaTar-ArTs/origin-story/blob/main/docs/adjacent-systems-research.md)
 - [Visual Story-Writing deep dive](https://github.com/AvaTar-ArTs/origin-story/blob/main/docs/visual-story-writing-deep-dive.md)
 - [Owned systems research](https://github.com/AvaTar-ArTs/origin-story/blob/main/docs/owned-systems-research.md)
+- [Expanded creator ecosystem scan](https://github.com/AvaTar-ArTs/origin-story/blob/main/docs/expanded-creator-ecosystem-scan.md)
 - [Origin Story skill package](https://github.com/AvaTar-ArTs/origin-story)
 
 ## Status
