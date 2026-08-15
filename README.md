@@ -46,6 +46,37 @@ Write dossier and synthesis
 
 The skill separates **observed facts**, **reasonable inferences**, and **recommendations** so that interpretation never gets mistaken for implementation evidence.
 
+## Expanded integration
+
+The expanded methods from Origin Story were integrated into [AvaTar-ArTs/archeo-skill](https://github.com/AvaTar-ArTs/archeo-skill).
+
+That integration added:
+
+- an agent-skills integration map
+- adapted agent role cards
+- creative and comic review lenses
+- a verification protocol
+
+Integrated source areas include:
+
+- `using-superpowers`
+- `verification-before-completion`
+- `workspace-ecosystem-audit`
+- `workflow-orchestrator`
+- `capability-atlas`
+- `system-architect`
+- `security-engineer`
+- `testing-specialist`
+- `content-organizer`
+- `feedback-synthesizer`
+- `creative-ideation`
+- `baoyu-comic`
+- `structured-asset-pipeline`
+- `frontend-design`
+- `taste-skill`
+
+The integration adapts useful methods instead of copying the entire `agent-skills` repository. This preserves clear ownership, keeps the system focused, and allows the methods to evolve for AvatarArts workflows.
+
 ## Repository layout
 
 - `SKILL.md` — operating instructions for the skill
@@ -102,7 +133,8 @@ The goal is not to reproduce any one project. The goal is to understand origins,
 
 - [AvatarArts Comic Creator Matrix](https://github.com/AvaTar-ArTs/AvatarArts-Comic-Creator-Matrix)
 - [AvatarArts agent-skills](https://github.com/AvaTar-ArTs/agent-skills)
-- [Installed skill package](https://github.com/AvaTar-ArTs/origin-story)
+- [Archeo Skill](https://github.com/AvaTar-ArTs/archeo-skill)
+- [Origin Story skill package](https://github.com/AvaTar-ArTs/origin-story)
 
 ## Status
 
