@@ -1,1 +1,14 @@
-sed: can't read /root/.codex/skills/remote-skills/repository-archaeology/agents/openai.yaml: No such file or directory
+interface:
+  display_name: Repository Archaeology
+  short_description: Reverse-engineer repositories into systems
+  default_prompt: Use $repository-archaeology to explain what these projects do, how
+    they work, what is reusable, and how to synthesize a proprietary architecture.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
